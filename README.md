@@ -1,2 +1,3 @@
-# water_melon
-Created with CodeSandbox
+# WatermelonDB web demo
+
+See instructions here: https://nozbe.github.io/WatermelonDB/Demo.html
